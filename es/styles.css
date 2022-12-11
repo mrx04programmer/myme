@@ -1,0 +1,82 @@
+body{
+    background-color: rgba(0, 0, 0, 0.206);
+    background-image: url('./background.png');
+    background-size: 100% 100vh;
+    font-family:'Courier New', Courier, monospace;
+}
+
+.ios{
+    box-shadow: 0px 0px 25px #222;
+    backdrop-filter: blur(10px);
+}
+
+#icons{
+    background-color: rgba(18, 18, 18, 0.635);
+    width: 7%;
+    border-radius: 20px;
+    
+}
+#icons > a{
+    color: #fff;
+    text-decoration: none;
+}
+#icons > a > i{
+    font-size: 2em;
+    padding: 10px;
+}
+
+.fa-github:hover{
+    color: yellow;
+    transition: 1s;
+}
+
+.fa-box:hover{
+    color: green;
+    transition: 1s;
+}
+
+.logo{
+    height: 300px;
+    width: 300px;
+    padding: 20px;
+    border-radius: 50%;
+    position: absolute;
+    top: 10%;
+    left: 40%;
+}
+
+.logo > img{
+    border-radius: 50%;
+}
+
+#projects{
+    width:23%;
+    background-color: rgba(18, 18, 18, 0.635);
+    color: #fff;
+    border-radius: 20px;
+    padding-bottom: 10px;
+}
+
+.project{
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.project > p > a{
+    color: #fff;
+    text-decoration: none;
+}
+
+h1{
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-left: 10px;
+    color:yellow;
+    text-align: center;
+}
+
+.h4{
+    font-size: 1.3em;
+    font-weight: bold;
+    
+}
