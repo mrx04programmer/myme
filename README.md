@@ -12,6 +12,6 @@ Myme website mrx04programmer profile
 * Contact in mail
 * My Github
 
-<img src="https://img.shields.io/badge/missing-responsive-t?style=for-the-badge&color=black&logoColor=darkgreen&labelColor=darkred" >
-<img src="https://img.shields.io/badge/missing-HTBLink-t?style=for-the-badge&color=black&logoColor=darkgreen&labelColor=darkred" >
-<img src="https://img.shields.io/badge/status-disable-t?style=for-the-badge&color=red&labelColor=info">
+<img src="https://img.shields.io/badge/missing-responsive-t?style=for-the-badge&color=black&logoColor=green&labelColor=darkred&logo=aqua">
+<img src="https://img.shields.io/badge/missing-HTBLink-t?style=for-the-badge&color=black&logoColor=green&labelColor=darkred&logo=hackthebox" >
+<img src="https://img.shields.io/badge/status-disable-t?style=for-the-badge&color=red&labelColor=informational">
