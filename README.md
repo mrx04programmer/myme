@@ -14,4 +14,4 @@ Myme website mrx04programmer profile
 
 <img src="https://img.shields.io/badge/missing-responsive-t?style=for-the-badge&color=black&logoColor=green&labelColor=darkred&logo=aqua">
 <img src="https://img.shields.io/badge/missing-HTBLink-t?style=for-the-badge&color=black&logoColor=green&labelColor=darkred&logo=hackthebox" >
-<img src="https://img.shields.io/badge/status-disable-t?style=for-the-badge&color=red&labelColor=informational">
+<img src="https://img.shields.io/badge/status-disable-t?style=for-the-badge&color=darkred&labelColor=white">
